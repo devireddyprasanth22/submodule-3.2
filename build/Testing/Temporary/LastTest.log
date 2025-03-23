@@ -1,0 +1,28 @@
+Start testing: Mar 23 12:32 +08
+----------------------------------------------------------
+1/1 Testing: submodule32
+1/1 Test: submodule32
+Command: "/Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build/test-submodule32"
+Directory: /Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build
+"submodule32" start time: Mar 23 12:32 +08
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Submodule32Test
+[ RUN      ] Submodule32Test.PrintTest
+[       OK ] Submodule32Test.PrintTest (298 ms)
+[----------] 1 test from Submodule32Test (299 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (299 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.64 sec
+----------------------------------------------------------
+Test Passed.
+"submodule32" end time: Mar 23 12:32 +08
+"submodule32" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 23 12:32 +08

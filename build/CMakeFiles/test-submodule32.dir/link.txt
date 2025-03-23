@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.7 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/test-submodule32.dir/test-submodule32.cpp.o" -o test-submodule32  -lpthread /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a
