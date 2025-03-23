@@ -1,5 +1,0 @@
-/Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build/CMakeFiles/submodule32.dir
-/Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build/CMakeFiles/test-submodule32.dir
-/Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build/CMakeFiles/test.dir
-/Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build/CMakeFiles/edit_cache.dir
-/Users/dp/Desktop/speqtral_challenge/master-software/submodule-3/submodule-3.2/build/CMakeFiles/rebuild_cache.dir
